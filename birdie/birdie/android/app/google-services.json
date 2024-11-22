@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83100758331",
+    "project_id": "birdie-31581",
+    "storage_bucket": "birdie-31581.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83100758331:android:3fa11ffad0e651525e471e",
+        "android_client_info": {
+          "package_name": "com.mycompany.birdie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB15fgF7YEapsdLNpm5YiOOwtuPKQRn_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
